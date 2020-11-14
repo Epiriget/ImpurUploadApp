@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ImgurUploadApp</string>
+    <string name="upload_button_text">Upload preset photo</string>
+</resources>
